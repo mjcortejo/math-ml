@@ -1,4 +1,8 @@
 import math
+
+__version__= '1.0.0'
+__author__= 'Mark Jethro Cortejo'
+
 a = 1.0
 b = 2.0
 iterations = 15
